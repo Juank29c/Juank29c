@@ -19,14 +19,7 @@
 - 🌐 Colombia
 
 ## Professional profile
-- Data Analyst with a background in Mechanical
-Engineering and more than 6 years of experience as
-analyst in sectors such fleet, insurance, maintenance,
-and production. Specialist in data visualization, report
-automation, and key business KPIs. Certified by Google
-in Data Analytics, with knowledge of ETL processes,
-structured/unstructured data analysis, and generating
-actionable insights.
+- Mechanical Engineer specialized in Data Analysis, with over 5 years of experience interpreting complex datasets and generating strategic insights using Power BI, SQL, Excel, and Python. Skilled in data cleaning, ETL processes, report automation, and KPI monitoring. Proven track record across industries such as insurance, fleet management, maintenance, manufacturing, and aviation, delivering value through the analysis of large volumes of structured and unstructured data. Strong ability to communicate insights to both technical and executive teams, with adaptability to dynamic and collaborative environments. Google-certified in Data Analytics.
 
 ## Skills
 
